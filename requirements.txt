@@ -1,5 +1,5 @@
 flask
 pandas
 numpy
-plotly
 scikit-learn
+plotly

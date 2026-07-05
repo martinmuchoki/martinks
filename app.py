@@ -4,14 +4,15 @@ app=Flask(__name__)
 @app.route('/')
 def home():
     return '''
-    <h1>NSE Signal Bot V9.3.1 — Full Quant Engine</h1>
+    <h1>NSE Signal Bot V9.5.1 — Full Hedge Fund Engine</h1>
     <ul>
-    <li>📈 Real Candlestick Charts: Ready</li>
-    <li>🧪 Backtesting Engine: Ready</li>
-    <li>📉 Monte Carlo Simulation: Ready</li>
-    <li>📊 Portfolio Optimization: Ready</li>
-    <li>🤖 ML Predictions: Ready</li>
-    <li>📄 Quant Reports: Ready</li>
+    <li>🧠 Ensemble BUY/HOLD/SELL Signals: Ready</li>
+    <li>📊 Maximum Sharpe Portfolio: Ready</li>
+    <li>📉 Minimum Variance Portfolio: Ready</li>
+    <li>⚠️ VaR/CVaR Risk Engine: Ready</li>
+    <li>🔗 Correlation Matrix: Ready</li>
+    <li>🔄 Autonomous Rebalancing: Ready</li>
+    <li>📄 Institutional Hedge Fund Report: Ready</li>
     </ul>
     '''
 if __name__=='__main__':

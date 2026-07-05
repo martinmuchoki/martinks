@@ -1,1 +1,1 @@
-# NSE Signal Bot V9.3.1 Full Quant Engine
+# V9.5.1 Full Hedge Fund Engine
