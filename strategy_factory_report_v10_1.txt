@@ -1,0 +1,17 @@
+NSE V10.1 AUTONOMOUS STRATEGY FACTORY REPORT
+Date: 2026-07-06 02:43
+
+Strategy Leaderboard:
+- Defensive Momentum | Score 87.7 | PASS | Return 31.8% | Sharpe 1.07 | Best: BRIT, KCB, COOP
+- Fast MA Cross | Score 84.4 | PASS | Return 26.16% | Sharpe 0.96 | Best: KCB, EABL, BRIT
+- RSI Recovery | Score 81.0 | PASS | Return 18.39% | Sharpe 0.94 | Best: KPLC, BAMB, EQTY
+- MA Trend Rider | Score 75.9 | PASS | Return 19.94% | Sharpe 0.84 | Best: KCB, KPLC, BRIT
+- Breakout Volume | Score 62.1 | WATCH | Return 8.22% | Sharpe 0.39 | Best: BRIT, KCB, EABL
+
+AI Strategy Ideas:
+- AI Strategy Idea 1: Defensive Momentum | Focus on BRIT, KCB, COOP and avoid stocks with drawdown above 13.59% | HIGH
+- AI Strategy Idea 2: Fast MA Cross | Focus on KCB, EABL, BRIT and avoid stocks with drawdown above 13.1% | HIGH
+- AI Strategy Idea 3: RSI Recovery | Focus on KPLC, BAMB, EQTY and avoid stocks with drawdown above 12.39% | HIGH
+- Hybrid Strategy: MA Trend Rider + Breakout Volume | Only enter when trend and breakout agree | HIGH
+
+Cloud-ready files included: Procfile, runtime.txt, requirements.txt

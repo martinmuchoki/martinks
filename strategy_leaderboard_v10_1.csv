@@ -1,0 +1,6 @@
+strategy,description,score,status,avg_return,avg_sharpe,avg_drawdown,avg_win_rate,best_symbols
+Defensive Momentum,Buy when price above MA50 and RSI between 45 and 65; sell below MA50.,87.7,PASS,31.8,1.07,13.59,27.88,"BRIT, KCB, COOP"
+Fast MA Cross,Buy MA10 > MA20; sell MA10 < MA20.,84.4,PASS,26.16,0.96,13.1,47.37,"KCB, EABL, BRIT"
+RSI Recovery,Buy when RSI recovers above 40 from oversold area; sell above 70.,81.0,PASS,18.39,0.94,12.39,75.24,"KPLC, BAMB, EQTY"
+MA Trend Rider,Buy when MA20 > MA50 and price above MA20; sell when price falls below MA20.,75.9,PASS,19.94,0.84,12.22,35.91,"KCB, KPLC, BRIT"
+Breakout Volume,Buy 20-day breakout with volume above average; sell when price loses MA20.,62.1,WATCH,8.22,0.39,10.59,40.76,"BRIT, KCB, EABL"
